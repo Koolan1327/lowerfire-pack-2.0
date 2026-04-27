@@ -1,0 +1,6 @@
+name: LowerFire
+version: 1.0.0
+main: dev.codex.lowerfire.LowerFirePlugin
+api-version: "1.20"
+author: Codex
+description: Applies a resource pack that lowers the burning fire overlay.

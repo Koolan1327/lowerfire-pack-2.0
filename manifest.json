@@ -1,0 +1,21 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "LowerFire Bedrock",
+    "description": "Lower fire overlay for Bedrock players on Geyser",
+    "uuid": "6b656242-2f8f-4202-b16e-f1852f2048e2",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "f53a2d72-32d2-4b8f-a7fa-d1b9df3408a1",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    "authors": ["Codex"],
+    "license": "Custom"
+  }
+}
