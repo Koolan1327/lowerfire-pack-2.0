@@ -1,1 +1,5 @@
-
+resource-pack:
+  enabled: true
+  url: "https://example.com/lowerfire.zip"
+  sha1: "8c339affc434e7351b7be991fe494e08c5ab22ff"
+  message: "LowerFire resource pack sent."
